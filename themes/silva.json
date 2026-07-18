@@ -1,0 +1,42 @@
+{
+  "theme": "𝗠𝗨𝗗𝗔𝗦𝗦𝗔𝗥 𝗠𝗗",
+  "AUTHOR": "𝙈𝙐𝘿𝘼𝙎𝙎𝘼𝙍 شہنشاہ",
+  "LANGUAGE": "English",
+  "LANGCODE": "en",
+  "STRINGS": {
+    "global": {
+      "botName": "𝗠𝗨𝗗𝗔𝗦𝗦𝗔𝗥 𝗠𝗗",
+      "body": "WhatsApp Bot",
+      "greet": "Boss",
+      "greet2": "Hey Boss",
+      "pic1": "./menu.jpg",
+      "pic2": "./menu.jpg",
+      "pic3": "./menu.jpg",
+      "pic4": "./menu.jpg",
+      "pic5": "./menu.jpg",
+      "pic6": "./menu.jpg",
+      "pic7": "./menu.jpg",
+      "dotbody": "𝗠𝗨𝗗𝗔𝗦𝗦𝗔𝗥 𝗠𝗗 is online.",
+      "promote": "Admin role granted.",
+      "demote": "Admin role removed.",
+      "antlink": "Link detected. *Goodbye.*",
+      "mention": "Please mention a user.",
+      "title": "𝗠𝗨𝗗𝗔𝗦𝗦𝗔𝗥-𝗠𝗗",
+      "footer": "𝗠𝗨𝗗𝗔𝗦𝗦𝗔𝗥 𝗠𝗗 Bot",
+      "by": "Made by: 𝙈𝙐𝘿𝘼𝙎𝙎𝘼𝙍 شہنشاہ",
+      "success": "Done ✓",
+      "wait": "*Processing your request* ✅",
+      "admin": "⛔ This command is for group admins only.",
+      "botAdmin": "❗ Please give me admin role first.",
+      "owner": "⛔ This command is reserved for the bot owner.",
+      "group": "❗ This feature is for groups only.",
+      "private": "⚠️ This feature is for private chats only.",
+      "bot": "⚠️ This feature is for the bot number only.",
+      "alive": "System online. All functions nominal.",
+      "aliveEmoji": "⚡"
+    },
+    "error": {
+      "text": "⚠️ An error occurred. Please try again."
+    }
+  }
+}
